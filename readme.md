@@ -1,10 +1,3 @@
-Bien sûr 🙂 Je vais te rédiger un **README** clair et structuré pour ton script Python `extract_first_pages.py`.
-Je vais l’écrire en **Markdown** pour qu’il soit compatible avec GitHub, GitLab ou tout éditeur moderne.
-
----
-
-## **README.md**
-
 # 📄 Extract First Page from PDFs
 
 Ce script Python permet d'extraire **la première page** de **tous les fichiers PDF** présents dans un répertoire et d'enregistrer chaque page extraite dans un nouveau fichier PDF.  
@@ -32,7 +25,7 @@ Le script utilise la bibliothèque **PyPDF2**. Installe-la via pip :
 
 ```bash
 pip install PyPDF2
-````
+```
 
 ---
 
